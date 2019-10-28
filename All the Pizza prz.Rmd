@@ -92,8 +92,11 @@ F.Table
 ```
 
 ## Questions
+- Comments, Questions, Suggestions
 
--Suggestions or Improvements?
--Improve it here: Link
+- Improve it here: https://rstudio.cloud/project/656531
 
+- Github:https://github.com/zjserapin/Design-Contest
+
+##Thank You!
 ![](https://media.giphy.com/media/9fuvOqZ8tbZOU/giphy.gif)
